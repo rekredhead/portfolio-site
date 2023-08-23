@@ -3,9 +3,3 @@
 </script>
 
 <slot />
-
-<style>
-	slot {
-		background-color: black;
-	}
-</style>
