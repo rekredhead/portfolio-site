@@ -4,4 +4,8 @@
 
 <slot />
 
-<style></style>
+<style>
+	slot {
+		background-color: black;
+	}
+</style>
